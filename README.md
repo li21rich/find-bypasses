@@ -15,8 +15,8 @@ pip install -r requirements.txt
 ```
 ### Usage
 ```
-python findbypasses.py target.com
+python findbypasses.py targetwebsite.com
 ```
-Results are saved to `target_com/` in the same directory.
+Results are saved to `targetwebsite_com/` in the same directory.
 
 Only use against targets you are authorized to test, i.e. bugcrowd engagements.
